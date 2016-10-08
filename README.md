@@ -1,4 +1,4 @@
-#Homework 3
+#Homework #3
 
 Your homework for this week to complete the Todo app tutorial on the meteor webpage.
 
